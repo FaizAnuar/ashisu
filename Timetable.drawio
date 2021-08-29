@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-29T16:21:17.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.186" etag="ApGGWwykoI2tfMGZmysO" version="15.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-08-29T16:23:34.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 OPR/78.0.4093.186" etag="6aZx4A2aZdIMHKgOpCPx" version="15.0.3" type="github" pages="4">
   <diagram id="IoZOqBR_R0r33BYb56o1" name="Page-1">
     <mxGraphModel dx="1847" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -788,6 +788,9 @@
         </mxCell>
         <mxCell id="rxDkz4GPwRybDC9cRfSd-37" value="display Timetable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="daWt9OspQ3r4vi8FnoMP-1">
           <mxGeometry x="-675" y="425" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zsF3jzcZJ8oK9JC_KhbA-0" value="DeleteTT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="daWt9OspQ3r4vi8FnoMP-1">
+          <mxGeometry x="-815" y="80" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
